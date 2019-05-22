@@ -1,0 +1,24 @@
+{
+  "name": "dwyl_tape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackbridger/dwyl_tape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackbridger/dwyl_tape/issues"
+  },
+  "homepage": "https://github.com/jackbridger/dwyl_tape#readme",
+  "devDependencies": {
+    "browserify": "^16.2.3",
+    "istanbul": "^0.4.5"
+  }
+}
